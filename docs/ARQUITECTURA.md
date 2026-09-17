@@ -21,7 +21,7 @@ real.
 | Motor de PDF | `androidx.pdf` (Apache 2.0, sin librerías nativas) |
 | Base de datos | Room (`lectorpdf.db`), versión de esquema 6 |
 | Inyección | A mano, en `LectorPdfApp` (`AppContainer`). Sin Hilt |
-| minSdk / targetSdk / compileSdk | 31 / 36 / 37 |
+| minSdk / targetSdk / compileSdk | 28 / 36 / 37 |
 | Java | 17 |
 | Idioma del código | Español: comentarios, nombres de recursos y mensajes de commit |
 

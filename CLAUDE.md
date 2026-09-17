@@ -43,7 +43,7 @@ adb logcat -s ViewerViewModel:D SafDocuments:D DocumentScanner:E PdfPrinter:E
 | Gradle | 9.7.1 | |
 | compileSdk | 37 | Lo exigen las AndroidX recientes; AGP lo descarga solo |
 | targetSdk | 36 | Lo que pide Play; verificar el mínimo vigente antes de publicar |
-| minSdk | 31 | Android 12. Subido desde 28 en la v5 |
+| minSdk | 28 | Android 9. Piso real de `androidx.pdf` (su AAR declara minSdk 28) |
 | Java | 17 | |
 
 Build en KTS (`.gradle.kts`) con version catalog en `gradle/libs.versions.toml`.

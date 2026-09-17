@@ -523,7 +523,7 @@ Si algún día añades un SDK que sí lo traiga, este comando vuelve a decírtel
 
 ## 9. Detalles técnicos (para consultar, no para memorizar)
 
-- `compileSdk` **37** · `targetSdk` **36** · `minSdk` **31** (Android 12 en
+- `compileSdk` **37** · `targetSdk` **36** · `minSdk` **28** (Android 9 en
   adelante).
 - AGP **9.4.0**, Gradle **9.7.1**, Java **17**. Kotlin va integrado en AGP:
   aplicar `org.jetbrains.kotlin.android` da error.

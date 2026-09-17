@@ -22,10 +22,10 @@ android {
 
     defaultConfig {
         applicationId = "com.giosoft.pdf"
-        minSdk = 31
+        minSdk = 28
         targetSdk = 36
-        versionCode = 6
-        versionName = "5.1.0"
+        versionCode = 7
+        versionName = "5.1.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
